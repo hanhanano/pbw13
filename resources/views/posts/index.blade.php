@@ -344,14 +344,9 @@
             gap: 0.5rem;
         }
         
-        .action-link {
+        .action-link,
+        .delete-btn  {
             width: 100%;
-            text-align: center;
-            padding: 0.5rem 1rem;
-        }
-
-        .delete-btn {
-            width: 308%;
             text-align: center;
             padding: 0.5rem 1rem;
         }
