@@ -350,10 +350,6 @@
             text-align: center;
             padding: 0.5rem 1rem;
         }
-
-        .delete-form {
-            margin-left: -167px;
-        }
         
         .table-cell {
             padding: 1rem;
